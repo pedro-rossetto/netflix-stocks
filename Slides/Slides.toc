@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Netflix Stock by Quarter}{3}{0}{1}
+\beamer@sectionintoc {2}{Estimated and Actual Earnings}{5}{0}{2}
+\beamer@sectionintoc {3}{Netflix Earnings and Revenue}{6}{0}{3}
+\beamer@sectionintoc {4}{Netflix on the Stock Market Context}{8}{0}{4}
